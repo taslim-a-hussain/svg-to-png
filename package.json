@@ -1,18 +1,18 @@
 {
-  "name": "react-svg-2-image",
-  "version": "1.0.0",
+  "name": "react-svg2img",
+  "version": "2.0.0",
   "description": "Converts SVG elements into images (PNG, JPG and etc)",
   "main": "index.js",
   "scripts": {
     "start": "parcel index.html",
-    "build": "parcel build index.html --out-file react-svg-2-image.min.js"
+    "build": "parcel build index.html --out-file react-svg2img.min.js"
   },
   "types": "typing.d.ts",
   "files": [
     "LICENSE",
     "package.json",
     "README.md",
-    "dist/react-svg-2-image.js",
+    "dist/react-svg2img.min.js",
     "dist/index.d.ts"
   ],
   "keywords": [
