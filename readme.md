@@ -1,11 +1,11 @@
-#d3-svg-to-png
+#svg-to-png
 
 Converts SVG elements in the browser to PNG and other image formats, while keeping CSS styles. Optionally, it returns the data as a promise or downloads it. It can also rescale the svg image, ignore certain DOM elements...
 
 ## Installation
 
 ```shell
-$ npm i d3-svg-to-png
+$ npm i svg-to-png
 ```
 
 ## Usage
